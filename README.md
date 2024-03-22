@@ -1,8 +1,6 @@
 # Foodie_We
 FoodieWe is a Food restaurant Website which is made using Reactjs and little Bootstrap 5. It consist of proper navigation and home , about , services and contact section with Some Amazing CSS Animations and properties.
 
-Website is Hosted on this link : https://foodiewe-f6004.web.app/
-
 Some Demo Images :
 
 <img width="960" alt="git1" src="https://user-images.githubusercontent.com/93420193/172604101-02fd51f9-a90f-4fd0-8341-cbcac9e49fba.png">
